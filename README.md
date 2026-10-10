@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I066
 ### Team Details
-#### **Team Name : ** Idealogists <br/>
+#### Team Name : Idealogists <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |    Hostel Details      |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:----------------------:|
